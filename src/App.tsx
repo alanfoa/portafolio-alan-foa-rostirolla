@@ -560,7 +560,7 @@ function Navbar() {
           className="font-bold text-white tracking-tight"
           style={{ fontFamily: DISPLAY }}
         >
-          Alan Foa
+          Alan Foa Rostirolla
         </a>
 
         <nav className="hidden md:flex items-center gap-8 absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2">
