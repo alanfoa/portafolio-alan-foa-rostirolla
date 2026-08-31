@@ -1,0 +1,10 @@
+{
+  "description": "Showcase your professional work and projects with a personalized portfolio featuring custom images and sections to highlight your skills and experience.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
